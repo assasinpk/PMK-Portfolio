@@ -12,9 +12,9 @@ PMK-Portfolio
 ###### Heading 6
 
 ## 하이퍼링크
-[Github - 깃 허브](http://github.com)
-[Github for Mac - 깃 허브 도구(맥용)](http://mac.github.com)
-[Github for Window - 깃 허브 도구(윈도우용)](http://windows.github.com)
+* [Github - 깃 허브](http://github.com)
+* [Github for Mac - 깃 허브 도구(맥용)](http://mac.github.com)
+* [Github for Window - 깃 허브 도구(윈도우용)](http://windows.github.com)
 
 ## 목 록
 * 하이
